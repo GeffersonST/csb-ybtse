@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://geffersonst.github.io/csb-ybtse/static/css/main.4976725a.chunk.css",
+    "main.js": "https://geffersonst.github.io/csb-ybtse/static/js/main.28641602.chunk.js",
+    "main.js.map": "https://geffersonst.github.io/csb-ybtse/static/js/main.28641602.chunk.js.map",
+    "runtime-main.js": "https://geffersonst.github.io/csb-ybtse/static/js/runtime-main.d8ce9590.js",
+    "runtime-main.js.map": "https://geffersonst.github.io/csb-ybtse/static/js/runtime-main.d8ce9590.js.map",
+    "static/js/2.e36a811b.chunk.js": "https://geffersonst.github.io/csb-ybtse/static/js/2.e36a811b.chunk.js",
+    "static/js/2.e36a811b.chunk.js.map": "https://geffersonst.github.io/csb-ybtse/static/js/2.e36a811b.chunk.js.map",
+    "index.html": "https://geffersonst.github.io/csb-ybtse/index.html",
+    "static/css/main.4976725a.chunk.css.map": "https://geffersonst.github.io/csb-ybtse/static/css/main.4976725a.chunk.css.map",
+    "static/js/2.e36a811b.chunk.js.LICENSE.txt": "https://geffersonst.github.io/csb-ybtse/static/js/2.e36a811b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8ce9590.js",
+    "static/js/2.e36a811b.chunk.js",
+    "static/css/main.4976725a.chunk.css",
+    "static/js/main.28641602.chunk.js"
+  ]
+}
